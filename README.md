@@ -1,4 +1,4 @@
-## Pantry Tracker
+### Pantry Tracker
 Pantry Tracker is a simple web application that helps users efficiently manage their pantry inventory. Users can add, view, update, and remove pantry items, with the added convenience of voice commands.
 
 ## Features
