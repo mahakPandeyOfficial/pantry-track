@@ -1,6 +1,10 @@
 ## Pantry Tracker
 Pantry Tracker is a simple web application that helps users efficiently manage their pantry inventory. Users can add, view, update, and remove pantry items, with the added convenience of voice commands.
 
+## SnapShots
+![image](https://github.com/user-attachments/assets/8e46e702-f140-4a22-917f-41b53d4bf14d)
+
+## Live Demo [Pantry-Track](https://your-pantry-track.vercel.app/))
 ## Features
 -- Basic CRUD Operations: Add, view, update, and remove pantry items.
 -- Voice Commands: Use voice commands to add or remove items.
