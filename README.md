@@ -1,3 +1,23 @@
+## Pantry Tracker
+Pantry Tracker is a simple web application that helps users efficiently manage their pantry inventory. Users can add, view, update, and remove pantry items, with the added convenience of voice commands.
+
+## Features
+-- Basic CRUD Operations: Add, view, update, and remove pantry items.
+-- Voice Commands: Use voice commands to add or remove items.
+-- Item Quantity Management: Increase or decrease item quantity based on user input or voice commands.
+-- User Interface: Clean and user-friendly interface with Material-UI.
+-- Real-Time Updates: Real-time updates using Firebase Firestore.
+-- Background Design: Elegant background design using CSS gradients.
+
+## Technology Stack
+-- **Frontend**: Next.js, Material-UI
+-- **Backend**: Firebase Firestore
+-- **Voice Recognition**: Web Speech API
+
+## Prerequisites
+-- Node.js
+-- Firebase project
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
